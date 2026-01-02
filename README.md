@@ -173,4 +173,8 @@ Integração com WhatsApp para pedidos
 ✔ Mapas com localização no Google Maps
 ✔ Sistema de reservas completo
 ✔ Conteúdo dinâmico via API
+<<<<<<< HEAD
 ✔ Otimização para SEO avançado
+=======
+✔ Otimização para SEO avançado
+>>>>>>> d506c1a0659b7c11c4663455ef94be00a63881c0
