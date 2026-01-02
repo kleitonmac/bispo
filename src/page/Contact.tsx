@@ -1,7 +1,7 @@
 import '../style/Contact.css'
 
 const Contact = () => {
-  const whatsappNumber = '5599999999999' // ajuste para o número real
+  const whatsappNumber = '5527997695973' // ajuste para o número real
 
   return (
     <section className="contact">
