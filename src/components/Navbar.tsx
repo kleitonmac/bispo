@@ -19,8 +19,8 @@ export default function Navbar() {
         <nav className="navbar-menu">
           <NavLink to="/" end>Início</NavLink>
           <NavLink to="/cardapio">Cardápio</NavLink>
-          <NavLink to="/about">Quem somos</NavLink>
-          <NavLink to="/contact">Contato</NavLink>
+          <NavLink to="/sobre">Quem somos</NavLink>
+          <NavLink to="/contato">Contato</NavLink>
         </nav>
 
         {/* Botão */}
