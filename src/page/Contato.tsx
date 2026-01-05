@@ -1,4 +1,7 @@
 import '../style/Contact.css'
+import { IconMapPin, IconClockHour12 } from "@tabler/icons-react";
+
+
 
 const Contact = () => {
   const whatsappNumber = '5527997695973' // ajuste para o número real
@@ -41,12 +44,12 @@ const Contact = () => {
           <h2>Contato direto</h2>
 
           <p>
-            📍 <strong>Endereço:</strong><br />
+            <IconMapPin className="contact-icon" /> <strong>Endereço:</strong><br />
             Rua Principal, 123 – Centro
           </p>
 
           <p>
-            ⏰ <strong>Horário:</strong><br />
+            <IconClockHour12 className="contact-icon" /> <strong>Horário:</strong><br />
             Terça a Domingo – 18h às 02h
           </p>
 
